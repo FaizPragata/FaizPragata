@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaizPragata
+- 👋 Hi, I’m Faiz Arsyi Pragata
 - 📚 I'm currently studying on Information Engineering Gadjah Mada University
 - 👀 I’m interested in Web development, Game Development
 - 🌱 I’m currently learning C++, HTML, CSS
