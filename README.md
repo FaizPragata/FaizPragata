@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaizPragata
 - 📚 I'm currently studying on Information Engineering Gadjah Mada University
 - 👀 I’m interested in Web development, Game Development
-- 🌱 I’m currently learning C++, HTML, Python
+- 🌱 I’m currently learning C++, HTML, CSS
 - 📫 How to reach me, you can email faizpragata@gmail.com
 
 
