@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faiz Arsyi Pragata
 - 📚 I'm currently studying on Information Engineering Gadjah Mada University
-- 👀 I’m interested in Web development, Game Development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++, HTML, CSS
 - 📫 How to reach me, you can email faizpragata@gmail.com
 
